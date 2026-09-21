@@ -14,8 +14,6 @@ Aplicativo desenvolvido em React Native com Expo, navegação em pilha (Stack Na
 * **Bônus 4:** Contador dinâmico de filmes salvos e tratamento do estado vazio[span_4](start_span)[span_4](end_span).
 
 ## 🚀 Como Executar o Projeto
-1. Acesse a pasta do projeto pelo terminal[span_5](start_span)[span_5](end_span):
-   ```bash
  cd cineapp
 npm install
 npx expo start --tunnel
